@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "321169805256",
+    "project_id": "appchesautentication",
+    "storage_bucket": "appchesautentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321169805256:android:e958724a0d884cd5493afd",
+        "android_client_info": {
+          "package_name": "com.mycompany.appches2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANF-_L88kg9f1K1eSKmB1APv3gu7ucoWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
